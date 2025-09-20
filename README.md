@@ -59,3 +59,20 @@ rclone mount gdrive: ~/MyDrive        # mount เป็นไดรฟ์เส�
 
 ขอให้ “ข้อมูลของเจ้า อยู่กับเจ้าเสมอ” 🌥️✨ <br>
 – บุญถึง <br>
+
+---
+### rclone browswer
+https://github.com/kapitainsky/RcloneBrowser/releases
+
+### Preferences
+
+rclone location:         /usr/local/bin/rclone <br>
+rclone.conf location:    [ปล่อยว่าง] <br>
+Stream command:          [ปล่อยว่างหรือใส่ open] <br>
+Mount options:           --vfs-cache-mode writes <br>
+Default download folder: /Users/imacbook/Downloads <br>
+Default upload folder:   [ใส่ถ้ามี] <br>
+Default download options: [ว่าง] <br>
+Default upload options:  --exclude .DS_Store <br>
+Default rclone options:  --fast-list <br>
+

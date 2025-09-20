@@ -76,3 +76,7 @@ Default download options: [ว่าง] <br>
 Default upload options:  --exclude .DS_Store <br>
 Default rclone options:  --fast-list <br>
 
+save yt tut
+
+https://www.youtube.com/watch?v=yAE7Wr_Nlkw&t=265s
+

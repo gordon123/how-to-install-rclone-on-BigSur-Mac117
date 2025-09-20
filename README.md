@@ -67,7 +67,7 @@ https://github.com/kapitainsky/RcloneBrowser/releases
 ### Preferences
 
 rclone location:         /usr/local/bin/rclone <br>
-rclone.conf location:    [ปล่อยว่าง] <br>
+rclone.conf location:    /Users/YOURMACBOOKNAME/.config/rclone/rclone.conf <br>
 Stream command:          [ปล่อยว่างหรือใส่ open] <br>
 Mount options:           --vfs-cache-mode writes <br>
 Default download folder: /Users/imacbook/Downloads <br>
